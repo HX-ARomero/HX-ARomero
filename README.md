@@ -1,7 +1,4 @@
-## Hi there 👋
-
-Aquí podemos escribir lo que necesitamos en formato "md"
-Este lenguaje admite también etiquetas "HTML", por lo que podemos utilizar "CSS", agregar imágenes, y todo lo que ya conocemos...
+## Hola 👋
 
 <h2 align="center">
   Full Stack Developer
