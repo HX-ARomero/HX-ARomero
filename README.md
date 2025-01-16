@@ -19,6 +19,7 @@ En este espacio comparto proyectos en los que demuestro mis habilidades, desde a
 
 ## 📬 Conecta conmigo
 Si tienes preguntas, comentarios, o simplemente quieres hablar de desarrollo, ¡no dudes en contactarme!
+
 <code>
   <p align="center">
     <img width="80%" src="https://images.pexels.com/photos/270632/pexels-photo-270632.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940">
